@@ -12,7 +12,7 @@
     "pbr",
     "diffusion"
   ],
-  "models": [
+  "nodes": [
     {
       "id": "trellis-2",
       "name": "TRELLIS.2-4B",
